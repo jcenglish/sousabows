@@ -1,0 +1,7 @@
+img/
+secure/
+vendor/
+scripts/db-info.php
+*/*.min*
+php_mail.log
+phpinfo.php
