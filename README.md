@@ -15,3 +15,4 @@ If I could go back and do it all over again, I would:
 3. Use vanilla JavaScript to build out the menu, bow viewer, dealer directory
 4. Hide my secrets a little better
 5. Use client-side validation for the email form
+6. Use Git. The files that I did push to here, I don't think they are the latest version or organized how I deployed it.
